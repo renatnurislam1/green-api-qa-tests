@@ -14,3 +14,12 @@ This repository contains integration tests for Green API (WhatsApp).
 - sendMessage
 
 ## Project structure
+- `src/` — API client and configuration
+- `tests/` — integration test cases
+- `.env.example` — environment variables example
+
+## Author
+
+Renat Nurislamov  
+QA Engineer  
+Test assignment: Green API (WhatsApp) integration tests
